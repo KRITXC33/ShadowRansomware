@@ -1,0 +1,12 @@
+C:\Users\Chunk\Desktop\ShadowRansomware\ShadowRansomware\bin\Debug\ShadowRansomware.exe.config
+C:\Users\Chunk\Desktop\ShadowRansomware\ShadowRansomware\bin\Debug\ShadowRansomware.exe
+C:\Users\Chunk\Desktop\ShadowRansomware\ShadowRansomware\bin\Debug\ShadowRansomware.pdb
+C:\Users\Chunk\Desktop\ShadowRansomware\ShadowRansomware\bin\Debug\ShadowRansomware.xml
+C:\Users\Chunk\Desktop\ShadowRansomware\ShadowRansomware\obj\Debug\ShadowRansomware.vbproj.AssemblyReference.cache
+C:\Users\Chunk\Desktop\ShadowRansomware\ShadowRansomware\obj\Debug\ShadowRansomware.Shadow.resources
+C:\Users\Chunk\Desktop\ShadowRansomware\ShadowRansomware\obj\Debug\ShadowRansomware.Resources.resources
+C:\Users\Chunk\Desktop\ShadowRansomware\ShadowRansomware\obj\Debug\ShadowRansomware.vbproj.GenerateResource.cache
+C:\Users\Chunk\Desktop\ShadowRansomware\ShadowRansomware\obj\Debug\ShadowRansomware.vbproj.CoreCompileInputs.cache
+C:\Users\Chunk\Desktop\ShadowRansomware\ShadowRansomware\obj\Debug\ShadowRansomware.exe
+C:\Users\Chunk\Desktop\ShadowRansomware\ShadowRansomware\obj\Debug\ShadowRansomware.xml
+C:\Users\Chunk\Desktop\ShadowRansomware\ShadowRansomware\obj\Debug\ShadowRansomware.pdb
